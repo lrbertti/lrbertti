@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lrbertti
 - 👀 I’m interested in Java, C#, C++, SQL 
-- 🌱 I’m currently learning Javascript, React and Python
+- 🌱 I’m currently learning Javascript, React, Python, .NET CORE and AZURE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lrbertti@gmail.com, or add me on discord luhbertti#8791
 
